@@ -27,5 +27,55 @@ console.log(booleanIsLoggedIn);
  console.log(typeof stringNumber);
  console.log(typeof someNumber);
  
+ // **************************************** Operations ***********************************************
+
+ let value = 3;
+ let negValue = - value
+ console.log(negValue);
+ 
+ console.log(2+3);
+ console.log(2-2);
+ console.log(2*2);
+ console.log(2**3);
+ console.log(2/3);
+ console.log(2%3);
+ 
+ let str1 = "hello";
+ let str2 = "World";
+ let str3 = str1 + str2;
+ console.log(str3);
+
+ console.log("1" + 2);
+ console.log(1 + "2");
+ console.log("1"+"2");
+ console.log("1"+2+2);
+ console.log("1"+ 2 + "2");
+ console.log(1+2+"2");
+
+ console.log(+true); // Read on operator precidence
+ console.log(+"");
+
+ let num1 , num2, num3 ;
+
+ num1 = num2 = num3 = 2+2; // don't write code like this 
+
+ let gameCounter = 100;
+ gameCounter++;   // prefix and postfix
+ console.log(gameCounter);
+ 
+
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
