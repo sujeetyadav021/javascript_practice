@@ -24,7 +24,7 @@ object
 console.log(typeof "hello"); // o/p string
 console.log(typeof 5); // o/p number
 console.log(typeof null); // o/p object
-console.log(typeof undefined);  //o/p undefined
+console.log(typeof undefined);  // o/p undefined
 
 
 
